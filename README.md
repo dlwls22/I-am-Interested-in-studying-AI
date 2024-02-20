@@ -1,1 +1,44 @@
 # I-am-Interested-in-studying-AI
+
+## Mathematics
+- [Mathematics for Machine Learning](https://course.ccs.neu.edu/ds4420sp20/readings/mml-book.pdf)
+- [MML 한글 버전1](https://junstar92.tistory.com/440)
+- [MML 한글 버전2](https://savanna.korea.ac.kr/wp/?page_id=605)
+- [딥러닝을 위한 선형대수학](https://www.yes24.com/Product/Goods/91574113)
+- [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251)
+- [모두를 위한 선형대수학](https://www.boostcourse.org/ai151)
+- [처음 배우는 딥러닝 수학](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B6703128448)
+- [선형대수학 총정리](https://www.youtube.com/watch?v=cpRgDDoGktk)
+- [이상화 교수님의 선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
+- [이상화 교수님의 확률 및 통계](https://www.youtube.com/playlist?list=PLtnvxvdKtkC_vNs0UKBOvFPu59qzu5-eh)
+- [통계 기초의 모든 것](https://www.youtube.com/watch?v=r7jTwciTdXo&list=PL7SDcmtbDTTwlE3froxlw601augbo6mzc)
+
+## Python
+- [점프 투 파이썬](https://wikidocs.net/book/1)
+- [PY4E](https://www.boostcourse.org/cs122)
+- [백준](https://www.acmicpc.net/)
+
+## Machine Learning
+- [혼자 공부하는 머신러닝 + 딥러닝](https://github.com/rickiepark/hg-mldl)
+- [파이썬 머신러닝 완벽 가이드](https://github.com/wikibook/pymlrev2)
+- [파이토치 딥러닝 교과서](https://github.com/gilbutITbook/080289)
+- [밑바닥부터 시작하는 딥러닝](https://github.com/WegraLee/deep-learning-from-scratch)
+- [핸즈 온 머신러닝](https://github.com/rickiepark/handson-ml3?tab=readme-ov-file)
+- [모두를 위한 딥러닝](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
+- [앤드류 응 교수님](https://www.coursera.org/learn/machine-learning)
+- [CS231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [CS224n](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+- [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+- [김기현의 자연어 처리 딥러닝 캠프](https://www.yes24.com/Product/Goods/74802622)
+- [혁펜하임의 "트이는" 강화 학습](https://www.youtube.com/playlist?list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g)
+
+## Competition
+- [DACON](https://dacon.io/)
+- [Kaggle](https://www.kaggle.com/)
+
+## Paper
+- [논문 읽기 방법](https://joonanlab.notion.site/1e9df60d634e47a99a776c204c10db5e)
+- [논문 효과적으로 읽는 법](https://eehoeskrap.tistory.com/174)
+- [Papers You Must Read_PYMR](https://sustaining-starflower-aff.notion.site/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
+- [Browse State-of-the-Art](https://paperswithcode.com/sota)
+- [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
