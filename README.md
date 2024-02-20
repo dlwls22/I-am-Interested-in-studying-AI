@@ -7,7 +7,6 @@
 - [딥러닝을 위한 선형대수학](https://www.yes24.com/Product/Goods/91574113)
 - [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251)
 - [모두를 위한 선형대수학](https://www.boostcourse.org/ai151)
-- [처음 배우는 딥러닝 수학](https://m.hanbit.co.kr/store/books/book_view.html?p_code=B6703128448)
 - [선형대수학 총정리](https://www.youtube.com/watch?v=cpRgDDoGktk)
 - [이상화 교수님의 선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
 - [이상화 교수님의 확률 및 통계](https://www.youtube.com/playlist?list=PLtnvxvdKtkC_vNs0UKBOvFPu59qzu5-eh)
@@ -24,6 +23,7 @@
 - [파이토치 딥러닝 교과서](https://github.com/gilbutITbook/080289)
 - [밑바닥부터 시작하는 딥러닝](https://github.com/WegraLee/deep-learning-from-scratch)
 - [핸즈 온 머신러닝](https://github.com/rickiepark/handson-ml3?tab=readme-ov-file)
+- [패턴인식과 머신러닝](https://product.kyobobook.co.kr/detail/S000001916898)
 - [Naver BoostCourse](https://www.boostcourse.org/)
 - [모두를 위한 딥러닝](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - [앤드류 응 교수님의 Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -43,3 +43,8 @@
 - [Papers You Must Read_PYMR](https://sustaining-starflower-aff.notion.site/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
 - [Browse State-of-the-Art](https://paperswithcode.com/sota)
 - [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+
+## ETC
+- [AI Tech Interview](https://boostdevs.gitbook.io/ai-tech-interview/)
+- [Sqld 시험 준비](https://www.youtube.com/@opportunelydba)
+- [빅데이터 분석기사 준비](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr)
