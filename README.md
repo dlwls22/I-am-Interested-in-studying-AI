@@ -48,3 +48,4 @@
 - [AI Tech Interview](https://boostdevs.gitbook.io/ai-tech-interview/)
 - [Sqld 시험 준비](https://www.youtube.com/@opportunelydba)
 - [빅데이터 분석기사 준비](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr)
+- [데이터 분석 및 시각화](https://www.youtube.com/watch?v=PjhlUzp_cU0&list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV&index=6)
