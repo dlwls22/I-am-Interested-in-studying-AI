@@ -48,6 +48,7 @@
 - [Papers You Must Read_PYMR](https://sustaining-starflower-aff.notion.site/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
 - [Browse State-of-the-Art](https://paperswithcode.com/sota)
 - [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## ETC
 - [AI Tech Interview](https://boostdevs.gitbook.io/ai-tech-interview/)
