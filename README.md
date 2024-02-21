@@ -12,10 +12,15 @@
 - [이상화 교수님의 확률 및 통계](https://www.youtube.com/playlist?list=PLtnvxvdKtkC_vNs0UKBOvFPu59qzu5-eh)
 - [통계 기초의 모든 것](https://www.youtube.com/watch?v=r7jTwciTdXo&list=PL7SDcmtbDTTwlE3froxlw601augbo6mzc)
 
-## Python
+## Python & Library
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 - [PY4E](https://www.boostcourse.org/cs122)
 - [백준](https://www.acmicpc.net/)
+- [Pandas 문제](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+- [Numpy 문제](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
+- [Matplotlib](https://wikidocs.net/book/5011)
+- [Pytorch](https://www.boostcourse.org/ai214)
+- [TensorFlow](https://www.boostcourse.org/ai212)
 
 ## Machine Learning
 - [혼자 공부하는 머신러닝 + 딥러닝](https://github.com/rickiepark/hg-mldl)
