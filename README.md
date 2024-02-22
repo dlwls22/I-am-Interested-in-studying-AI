@@ -16,6 +16,7 @@
 - [점프 투 파이썬](https://wikidocs.net/book/1)
 - [PY4E](https://www.boostcourse.org/cs122)
 - [백준](https://www.acmicpc.net/)
+- [리트코드](https://leetcode.com/)
 - [Pandas 문제](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 - [Numpy 문제](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
 - [Matplotlib](https://wikidocs.net/book/5011)
