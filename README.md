@@ -56,3 +56,5 @@
 - [Sqld 시험 준비](https://www.youtube.com/@opportunelydba)
 - [빅데이터 분석기사 준비](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr)
 - [데이터 분석 및 시각화](https://www.youtube.com/watch?v=PjhlUzp_cU0&list=PLMsa_0kAjjrd8hYYCwbAuDsXZmHpqHvlV&index=6)
+- [머신러닝 문제해결 체크리스트](https://docs.google.com/spreadsheets/d/1kVygnwbR_YUpNFgw-6mZQuPn8ILY2m3vl32BOu7gQsc/edit#gid=39315817)
+- [딥러닝 문제해결 체크리스트](https://docs.google.com/spreadsheets/d/1kVygnwbR_YUpNFgw-6mZQuPn8ILY2m3vl32BOu7gQsc/edit#gid=1051001003)
