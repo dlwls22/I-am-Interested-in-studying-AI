@@ -33,6 +33,7 @@
 - [Naver BoostCourse](https://www.boostcourse.org/)
 - [모두를 위한 딥러닝](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm)
 - [앤드류 응 교수님의 Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [이안 굿펠로우 딥러닝](https://www.deeplearningbook.org/)
 - [CS231n](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 - [CS224n](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 - [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
