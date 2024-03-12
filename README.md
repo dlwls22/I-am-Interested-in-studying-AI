@@ -2,8 +2,7 @@
 
 ## Mathematics
 - [Mathematics for Machine Learning](https://course.ccs.neu.edu/ds4420sp20/readings/mml-book.pdf)
-- [MML 한글 버전1](https://junstar92.tistory.com/440)
-- [MML 한글 버전2](https://savanna.korea.ac.kr/wp/?page_id=605)
+- [MML 한글 버전](https://savanna.korea.ac.kr/wp/?page_id=605)
 - [딥러닝을 위한 선형대수학](https://www.yes24.com/Product/Goods/91574113)
 - [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251)
 - [모두를 위한 선형대수학](https://www.boostcourse.org/ai151)
