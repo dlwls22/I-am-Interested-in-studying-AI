@@ -38,6 +38,7 @@
 - [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 - [김기현의 자연어 처리 딥러닝 캠프](https://www.yes24.com/Product/Goods/74802622)
 - [혁펜하임의 "트이는" 강화 학습](https://www.youtube.com/playlist?list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g)
+- [Data Science Glossary on Kaggle](https://www.kaggle.com/code/shivamb/data-science-glossary-on-kaggle)
 
 ## Competition
 - [DACON](https://dacon.io/)
