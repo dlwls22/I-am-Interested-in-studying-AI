@@ -61,3 +61,4 @@
 - [딥러닝 문제해결 체크리스트](https://docs.google.com/spreadsheets/d/1kVygnwbR_YUpNFgw-6mZQuPn8ILY2m3vl32BOu7gQsc/edit#gid=1051001003)
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler?tab=readme-ov-file)
 - [파이토치 한국 사용자 모임](https://discuss.pytorch.kr/)
+- [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
