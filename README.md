@@ -51,6 +51,7 @@
 - [Browse State-of-the-Art](https://paperswithcode.com/sota)
 - [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+- [논문 읽기와 ML/DL 커리어 경력에 대한 조언 by Andrew Ng](https://media-ai.tistory.com/7)
 
 ## ETC
 - [AI Tech Interview](https://boostdevs.gitbook.io/ai-tech-interview/)
