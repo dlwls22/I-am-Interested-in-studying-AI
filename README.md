@@ -43,6 +43,7 @@
 ## Competition
 - [DACON](https://dacon.io/)
 - [Kaggle](https://www.kaggle.com/)
+- [AI CONNECT](https://aiconnect.kr/)
 
 ## Paper
 - [논문 읽기 방법](https://joonanlab.notion.site/1e9df60d634e47a99a776c204c10db5e)
