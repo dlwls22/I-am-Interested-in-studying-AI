@@ -64,3 +64,4 @@
 - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler?tab=readme-ov-file)
 - [파이토치 한국 사용자 모임](https://discuss.pytorch.kr/)
 - [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
+- [팔만코딩경](https://80000coding.oopy.io/)
