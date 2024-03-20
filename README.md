@@ -46,6 +46,7 @@
 - [AI CONNECT](https://aiconnect.kr/)
 
 ## Paper
+- [논문 읽기와 ML/DL 커리어 경력에 대한 조언 by Andrew Ng](https://media-ai.tistory.com/7)
 - [논문 읽기 방법](https://joonanlab.notion.site/1e9df60d634e47a99a776c204c10db5e)
 - [논문 효과적으로 읽는 법](https://eehoeskrap.tistory.com/174)
 - [Papers You Must Read_PYMR](https://sustaining-starflower-aff.notion.site/c3b3474d18ef4304b23ea360367a5137?v=5d763ad5773f44eb950f49de7d7671bd)
@@ -53,7 +54,7 @@
 - [awesome deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
 - [awesome deep learning computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
-- [논문 읽기와 ML/DL 커리어 경력에 대한 조언 by Andrew Ng](https://media-ai.tistory.com/7)
+- [must read paper for ml](https://github.com/hurshd0/must-read-papers-for-ml?tab=readme-ov-file)
 
 ## ETC
 - [AI Tech Interview](https://boostdevs.gitbook.io/ai-tech-interview/)
