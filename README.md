@@ -55,6 +55,7 @@
 - [awesome deep learning computer vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [must read paper for ml](https://github.com/hurshd0/must-read-papers-for-ml?tab=readme-ov-file)
+- [딥러닝 논문 읽기 모임](https://www.youtube.com/@user-ow3gm9zd1b/playlists)
 
 ## ETC
 - [AI Tech Interview](https://boostdevs.gitbook.io/ai-tech-interview/)
