@@ -56,6 +56,7 @@
 - [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [must read paper for ml](https://github.com/hurshd0/must-read-papers-for-ml?tab=readme-ov-file)
 - [딥러닝 논문 읽기 모임](https://www.youtube.com/@user-ow3gm9zd1b/playlists)
+- [How to Read Machine Learning Papers Effectively](https://pub.towardsai.net/how-to-read-machine-learning-papers-effectively-9c2df7906516)
 
 ## ETC
 - [AI Tech Interview](https://boostdevs.gitbook.io/ai-tech-interview/)
