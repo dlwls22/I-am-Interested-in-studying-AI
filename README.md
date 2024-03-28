@@ -69,3 +69,4 @@
 - [파이토치 한국 사용자 모임](https://discuss.pytorch.kr/)
 - [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko)
 - [팔만코딩경](https://80000coding.oopy.io/)
+- [메타코드M](https://www.youtube.com/@mcodeM)
