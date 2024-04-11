@@ -11,6 +11,7 @@
 - [이상화 교수님의 확률 및 통계](https://www.youtube.com/playlist?list=PLtnvxvdKtkC_vNs0UKBOvFPu59qzu5-eh)
 - [통계 기초의 모든 것](https://www.youtube.com/watch?v=r7jTwciTdXo&list=PL7SDcmtbDTTwlE3froxlw601augbo6mzc)
 - [공돌이의 수학 정리 노트](https://angeloyeo.github.io/)
+- [딥러닝 공부방](https://deep-learning-study.tistory.com/)
 
 ## Python & Library
 - [점프 투 파이썬](https://wikidocs.net/book/1)
